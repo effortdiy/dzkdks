@@ -8,8 +8,9 @@ DZKD挂课时代码
 2. 按照要求找到cookies和course_id字段的信息
 ![cookies](1.jpg)
 ![course_id](2.jpg)
-3. 用python3.x运行main.py文件，或者直接运行main.exe的文件
+3. 有环境的用python3.x运行main.py文件，没环境的直接下载main.zip，解压运行main.exe的文件
 4. 等着程序跑起来就行了
+![成功运行后](3.jpg)
 
 # bug：
 1. 有些多页签多页面的课程需手动完成
@@ -17,3 +18,4 @@ DZKD挂课时代码
 
 # ps
 大家有条件还是自学以下课程，老师讲解的还是很仔细的
+代码仅用于内外研究学习
